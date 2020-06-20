@@ -1,0 +1,12 @@
+/Users/fatih/Projects/Maasin/Maasin.Datas/bin/Debug/netcoreapp3.1/Maasin.Datas.deps.json
+/Users/fatih/Projects/Maasin/Maasin.Datas/bin/Debug/netcoreapp3.1/Maasin.Datas.runtimeconfig.json
+/Users/fatih/Projects/Maasin/Maasin.Datas/bin/Debug/netcoreapp3.1/Maasin.Datas.runtimeconfig.dev.json
+/Users/fatih/Projects/Maasin/Maasin.Datas/bin/Debug/netcoreapp3.1/Maasin.Datas.dll
+/Users/fatih/Projects/Maasin/Maasin.Datas/bin/Debug/netcoreapp3.1/Maasin.Datas.pdb
+/Users/fatih/Projects/Maasin/Maasin.Datas/obj/Debug/netcoreapp3.1/Maasin.Datas.csprojAssemblyReference.cache
+/Users/fatih/Projects/Maasin/Maasin.Datas/obj/Debug/netcoreapp3.1/Maasin.Datas.AssemblyInfoInputs.cache
+/Users/fatih/Projects/Maasin/Maasin.Datas/obj/Debug/netcoreapp3.1/Maasin.Datas.AssemblyInfo.cs
+/Users/fatih/Projects/Maasin/Maasin.Datas/obj/Debug/netcoreapp3.1/Maasin.Datas.csproj.CoreCompileInputs.cache
+/Users/fatih/Projects/Maasin/Maasin.Datas/obj/Debug/netcoreapp3.1/Maasin.Datas.dll
+/Users/fatih/Projects/Maasin/Maasin.Datas/obj/Debug/netcoreapp3.1/Maasin.Datas.pdb
+/Users/fatih/Projects/Maasin/Maasin.Datas/obj/Debug/netcoreapp3.1/Maasin.Datas.genruntimeconfig.cache
